@@ -1,5 +1,3 @@
-
-
 # Recipe App
 
 Welcome to the Recipe App! This web application allows users to search for recipes, view recipe details, add recipes to favorites, and more.
@@ -29,31 +27,36 @@ To run the project locally, follow these steps:
 
 The app should now be running at [http://localhost:3000](http://localhost:3000).
 
-
 ## Screenshots
 
 ### Dashboard Page
-![Dashboard](screenshots/Dashboard.png)
+
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Recipe Detail Page
-![Recipe Detail](screenshots/RecipeDetails.png
+
+![Recipe Detail](Screenshots/RecipeDetails.png)
 
 ### Favorites Page
-![Favorites](screenshots/Favourites.png)
+
+![Favorites](Screenshots/Favourites.png)
 
 ### search Page
-![Favorites](screenshots/search.png)
+
+![Favorites](Screenshots/search.png)
 
 ### loginPage Page
-![Favorites](screenshots/loginPage.png)
+
+![Favorites](Screenshots/loginPage.png)
 
 ### RegisterPage Page
-![Favorites](screenshots/RegisterPage.png)
+
+![Favorites](Screenshots/RegisterPage.png)
 
 ### aboutUs Page
-![Favorites](screenshots/aboutUs.png)
+
+![Favorites](Screenshots/aboutUs.png)
 
 # Auther
+
 Swapnil Shinde
-
-

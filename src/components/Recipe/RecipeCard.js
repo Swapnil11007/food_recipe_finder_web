@@ -1,21 +1,4 @@
-// import React from 'react';
-// import { Link } from 'react-router-dom';
 
-// const RecipeCard = ({ recipe }) => {
-//     console.log(recipe);
-//   return (
-//     <div className="recipe-card">
-//       {/* <Link to={`/recipe/${recipe.uri.split('_')[1]}`}> */}
-//       <Link to={{ pathname: `/recipe/${recipe.uri.split('_')[1]}`, state: { recipe } }}>
-        
-//         <img src={recipe.image} alt={recipe.label} />
-//         <h3>{recipe.label}</h3>
-//       </Link>
-//     </div>
-//   );
-// };
-
-// export default RecipeCard;
 
 import React, { useContext, useState } from 'react';
 import { Link } from 'react-router-dom';
