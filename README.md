@@ -22,7 +22,7 @@ Welcome to the Recipe App! This web application allows users to search for recip
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Swapnil11007/food_recipe_finder_web/edit/main/README.md
 2. Navigate to the project directory: `cd recipe-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -33,25 +33,25 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 ## Screenshots
 
 ### Dashboard Page
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Recipe Detail Page
-![Recipe Detail](screenshots/RecipeDetails.png
+![Recipe Detail](Screenshots/RecipeDetails.png)
 
 ### Favorites Page
-![Favorites](screenshots/Favourites.png)
+![Favorites](Screenshots/Favourites.png)
 
 ### search Page
-![Favorites](screenshots/search.png)
+![Favorites](Screenshots/search.png)
 
 ### loginPage Page
-![Favorites](screenshots/loginPage.png)
+![Favorites](Screenshots/loginPage.png)
 
 ### RegisterPage Page
-![Favorites](screenshots/RegisterPage.png)
+![Favorites](Screenshots/RegisterPage.png)
 
 ### aboutUs Page
-![Favorites](screenshots/aboutUs.png)
+![Favorites](Screenshots/aboutUs.png)
 
 # Auther
 Swapnil Shinde
