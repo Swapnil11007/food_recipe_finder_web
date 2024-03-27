@@ -1,0 +1,90 @@
+/* Updated CSS for RecipeDetails */
+.recipe-details-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  display: flex; /* Use flexbox */
+  flex-direction: column; /* Arrange children in a column */
+  align-items: center; /* Center horizontally */
+  margin-top: 50px;
+}
+
+.recipe-info {
+  width: 100%; /* Ensure full width */
+  display: flex; /* Use flexbox */
+  flex-wrap: wrap; /* Wrap items if they overflow */
+  justify-content: space-between; /* Distribute items evenly */
+  align-items: center; /* Center vertically */
+}
+
+.recipe-title {
+  font-size: 24px;
+  margin-bottom: 25px;
+}
+
+.recipe-image {
+  width: 45%; /* Adjust image width */
+  margin-bottom: 20px;
+}
+
+.recipe-info p {
+  margin: 0;
+}
+
+.ingredients-table {
+  width: 45%; /* Adjust table width */
+  margin-bottom: 20px;
+}
+
+.ingredients-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.ingredients-table th,
+.ingredients-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.ingredients-table th {
+  background-color: #f2f2f2;
+}
+
+.health-labels {
+  width: 100%; /* Ensure full width */
+}
+
+.health-labels-list {
+  display: flex; /* Use flexbox */
+  flex-wrap: wrap; /* Wrap items if they overflow */
+  justify-content: flex-start; /* Align items from start */
+  margin-bottom: 20px;
+}
+
+.health-label {
+  margin-right: 10px; /* Add margin between health labels */
+}
+
+.back-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  margin-top: 20px;
+}
+
+.back-button:hover {
+  background-color: #0056b3;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
